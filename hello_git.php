@@ -14,7 +14,8 @@
 
         <?php
 
-        echo ("HellowWord")
+        echo ("HellowWord");
+        echo ("HellowWord2");
 
         ?>
         
